@@ -1,0 +1,51 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ĞäŒ¹ûÿÿÿÿ8œô·¡ª1
+s
+java:S3655†"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(½£÷Îÿÿÿÿÿ8öô·¡ª1
+r
+java:S3655\"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(½£÷Îÿÿÿÿÿ8öô·¡ª1
+C
+java:S1452:"&Remove usage of generic wildcard type.(Üªªö8†õ·¡ª1
+X	java:S125."<This block of commented-out lines of code should be removed.(Øà†ï8õ·¡ª1
+]	java:S1256"<This block of commented-out lines of code should be removed.(ÂÑÑîüÿÿÿÿ8õ·¡ª1
+H
+java:S1452>"&Remove usage of generic wildcard type.(ïê·ôÿÿÿÿÿ8õ·¡ª1
+C
+java:S1452N"&Remove usage of generic wildcard type.(¬¯–º8—õ·¡ª1
+C
+java:S1452S"&Remove usage of generic wildcard type.(ÎêÄ8œõ·¡ª1
+j	java:S100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìå¢ù8õ·¡ª1
+C
+java:S1452Y"&Remove usage of generic wildcard type.(Ìå¢ù8Ÿõ·¡ª1
+F	java:S106k"+Replace this use of System.out by a logger.(ê‹˜8¯õ·¡ª1
+F	java:S106l"+Replace this use of System.out by a logger.(È¢åM8±õ·¡ª1
+G	java:S106o"+Replace this use of System.out by a logger.(‰Å˜8²õ·¡ª1
+F	java:S106p"+Replace this use of System.out by a logger.(È¢åM8´õ·¡ª1
+p	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š‹®äüÿÿÿÿ8¸õ·¡ª1
+I
+java:S1452ƒ"&Remove usage of generic wildcard type.(š‹®äüÿÿÿÿ8¹õ·¡ª1
+^	java:S125"<This block of commented-out lines of code should be removed.(°ºòÅüÿÿÿÿ8Äõ·¡ª1
+p	java:S100§"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¢Ú³ıÿÿÿÿ8Åõ·¡ª1
+I
+java:S1452§"&Remove usage of generic wildcard type.( ¢Ú³ıÿÿÿÿ8Æõ·¡ª1
+Y	java:S125"<This block of commented-out lines of code should be removed.(˜à€ª8Çõ·¡ª1
+j	java:S100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ŸU8Ìõ·¡ª1
+H	java:S106½"+Replace this use of System.out by a logger.(¸Øœ„8Ğõ·¡ª1
+M	java:S106Á"+Replace this use of System.out by a logger.(š¯úøÿÿÿÿ8Öõ·¡ª1
+H	java:S106É"+Replace this use of System.out by a logger.(ñÃ±8İõ·¡ª1
+T
+java:S6437Ğ"6Revoke and change this password, as it is compromised.(¯Ğæ¡8àõ·¡ª1
+M	java:S106Ô"+Replace this use of System.out by a logger.(††˜èùÿÿÿÿ8äõ·¡ª1
+p	java:S100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë±Ø”úÿÿÿÿ8åõ·¡ª1
+l
+java:S1128"JRemove this unused import 'com.example.agence_voyage_back.Entities.Admin'.(ÊÈº°ùÿÿÿÿ8êõ·¡ª1
+s
+java:S1128"VRemove this unused import 'com.example.agence_voyage_back.Entities.ConfirmationToken'.(ÌĞïÆ8êõ·¡ª1
+[
+java:S1128">Remove this unused import 'jakarta.transaction.Transactional'.(ß–Ê³8ëõ·¡ª1
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8ëõ·¡ª1
+Q
+java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã8ìõ·¡ª1
+V
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8ìõ·¡ª1

@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ŒÓÆûÿÿÿÿ
+n	java:S116"TRename this field "nb_etoile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô­öºşÿÿÿÿ
+h	java:S116"SRename this field "date_deb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê«ôê
+h	java:S116"SRename this field "date_fin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¹Æ†
+q
+java:S1128"ORemove this unused import 'com.fasterxml.jackson.annotation.JsonBackReference'.(»Ôœ¿ıÿÿÿÿ8©Ì±õ‡1
+e
+java:S1128"HRemove this unused import 'com.fasterxml.jackson.annotation.JsonIgnore'.(ş‘‹„8¬Ì±õ‡1
+x
+java:S1128"VRemove this unused import 'com.fasterxml.jackson.databind.annotation.JsonDeserialize'.(Úˆ×øÿÿÿÿ8­Ì±õ‡1

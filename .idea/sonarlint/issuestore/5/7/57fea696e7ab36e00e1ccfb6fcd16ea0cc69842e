@@ -1,0 +1,19 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÐäŒ¹ûÿÿÿÿ8×÷·¡ª1
+j	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Œé¡8Žø·¡ª1
+o	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ‚ëýÿÿÿÿ8ø·¡ª1
+j	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÙâû8’ø·¡ª1
+j	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½™œÕ8”ø·¡ª1
+L	java:S106>"+Replace this use of System.out by a logger.(šœôëüÿÿÿÿ8›ø·¡ª1
+L	java:S106B"+Replace this use of System.out by a logger.(¬Å¾žýÿÿÿÿ8Ÿø·¡ª1
+L	java:S106J"+Replace this use of System.out by a logger.(È±¯¯üÿÿÿÿ8£ø·¡ª1
+X	java:S125I"<This block of commented-out lines of code should be removed.(‡—“¥8¤ø·¡ª1
+G	java:S106K"+Replace this use of System.out by a logger.(ñÃ±8¥ø·¡ª1
+S
+java:S6437R"6Revoke and change this password, as it is compromised.(¯Ðæ¡8§ø·¡ª1
+L	java:S106U"+Replace this use of System.out by a logger.(††˜èùÿÿÿÿ8«ø·¡ª1
+o	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¢Ú³ýÿÿÿÿ8¬ø·¡ª1
+H
+java:S1452\"&Remove usage of generic wildcard type.( ¢Ú³ýÿÿÿÿ8¬ø·¡ª1
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ8®ø·¡ª1

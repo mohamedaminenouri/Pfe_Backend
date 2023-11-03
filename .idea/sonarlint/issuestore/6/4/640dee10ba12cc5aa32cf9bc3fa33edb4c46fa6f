@@ -1,0 +1,6 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ı‹ªŸ8îÄÔ¨ª1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ŒÓÆûÿÿÿÿ8ğÄÔ¨ª1
+o	java:S116"SRename this field "date_res" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ñçŒ8ôÄÔ¨ª1
+e
+java:S1128"HRemove this unused import 'com.fasterxml.jackson.annotation.JsonIgnore'.(ş‘‹„8ÿÄÔ¨ª1

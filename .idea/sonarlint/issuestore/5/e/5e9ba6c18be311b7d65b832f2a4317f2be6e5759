@@ -1,0 +1,19 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅëĞé8¥å·¡ª1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ë‡¬8¨å·¡ª1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¡ÏÁ8¸å·¡ª1
+C
+java:S1452"&Remove usage of generic wildcard type.(ò¡ÏÁ8ºå·¡ª1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ’æıÿÿÿÿ8¾å·¡ª1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÛÆôûÿÿÿÿ8Áå·¡ª1
+H
+java:S1452"&Remove usage of generic wildcard type.(éÍÓ±şÿÿÿÿ8Äå·¡ª1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºüÎÁıÿÿÿÿ8Æå·¡ª1
+H
+java:S1452"&Remove usage of generic wildcard type.(³°’‚ÿÿÿÿÿ8Éå·¡ª1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅëĞé8Ìå·¡ª1
+C
+java:S1452"&Remove usage of generic wildcard type.(ÅëĞé8Ìå·¡ª1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ñÛóüÿÿÿÿ8Íå·¡ª1
+s
+java:S1128"VRemove this unused import 'com.example.agence_voyage_back.Entities.ConfirmationToken'.(ÌĞïÆ8Üå·¡ª1

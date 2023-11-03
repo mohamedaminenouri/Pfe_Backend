@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1464c80-d57f-42f9-a66c-89009e395264" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c1545acdd11fb49e4af82367dce754470b66483" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c1545acdd11fb49e4af82367dce754470b66483" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4abb3298a2fd3fbea14dc9187d642eda4d4fb6ca" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4abb3298a2fd3fbea14dc9187d642eda4d4fb6ca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4c0c7b1b8b39a1be0d7a5c2586c6f68ea5c33076" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4c0c7b1b8b39a1be0d7a5c2586c6f68ea5c33076" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/56364105423fdcd20d6c1a78eed66072440877ac" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/56364105423fdcd20d6c1a78eed66072440877ac" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e9ba6c18be311b7d65b832f2a4317f2be6e5759" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e9ba6c18be311b7d65b832f2a4317f2be6e5759" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/62ce6da86100f5c99c8ba55456a21a8b4d201e4d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/62ce6da86100f5c99c8ba55456a21a8b4d201e4d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/640dee10ba12cc5aa32cf9bc3fa33edb4c46fa6f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/640dee10ba12cc5aa32cf9bc3fa33edb4c46fa6f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/68bfc652e86ee1d036f12dc0c29a5f628f219cda" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/68bfc652e86ee1d036f12dc0c29a5f628f219cda" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e7398c99ededb0eb20e9b958f8e6fff7d89ee69" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e7398c99ededb0eb20e9b958f8e6fff7d89ee69" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/8195d079ccc804b2e95eb04bfd0661d3fcdeeb97" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/8195d079ccc804b2e95eb04bfd0661d3fcdeeb97" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b6ee3c4b54f065f1bf328ddff794a91901f69540" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b6ee3c4b54f065f1bf328ddff794a91901f69540" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cf9ad4aa2e29e277457996b6ad168f1c84aa4524" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cf9ad4aa2e29e277457996b6ad168f1c84aa4524" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d8b738532d9021c5a67de959af36c4e942acd117" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d8b738532d9021c5a67de959af36c4e942acd117" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb44d51db65ae665a9e6f8abfef3e1dced116318" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb44d51db65ae665a9e6f8abfef3e1dced116318" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f4cebf66d24ff7c4a9ce9d5480f2445c724552b8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f4cebf66d24ff7c4a9ce9d5480f2445c724552b8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/agence_voyage_back/Entities/Reservation_validee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/agence_voyage_back/Entities/Reservation_validee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/AgenceVoyageBackApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/AgenceVoyageBackApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Controllers/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Controllers/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Controllers/AnnonceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Controllers/AnnonceController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Controllers/CategorieController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Controllers/CategorieController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Controllers/ChatController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Controllers/ChatController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Controllers/ClientController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Controllers/ClientController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Controllers/ContactController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Controllers/ContactController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Controllers/MVCConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Controllers/MVCConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Controllers/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Controllers/PaymentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Controllers/Reservation_valideeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Controllers/Reservation_valideeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Controllers/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Controllers/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Controllers/StripeClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Controllers/StripeClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/Annonce.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/Annonce.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/AnnonceDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/AnnonceDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/Categorie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/Categorie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/ConfirmationToken.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/ConfirmationToken.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/Contact.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/Contact.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/EnumCause.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/EnumCause.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/GenreClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/GenreClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/Reservation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/Reservation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/ReservationDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/ReservationDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/Reservation_refusee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/Reservation_refusee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/Reservation_validee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Entities/Reservation_validee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Repository/AdminRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Repository/AdminRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Repository/AnnonceRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Repository/AnnonceRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Repository/CategorieRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Repository/CategorieRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Repository/ClientRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Repository/ClientRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Repository/ConfirmationTokenRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Repository/ConfirmationTokenRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Repository/ContactRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Repository/ContactRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Repository/Reservation_refuseeRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Repository/Reservation_refuseeRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Repository/Reservation_valideeRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Repository/Reservation_valideeRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/AdminService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/AdminService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/AdminServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/AdminServiceImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/AnnonceService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/AnnonceService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/AnnonceServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/AnnonceServiceImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/CategorieService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/CategorieService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/CategorieServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/CategorieServiceImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/ClientService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/ClientService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/ClientServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/ClientServiceImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/ContactService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/ContactService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/ContactServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/ContactServiceImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/EmailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/EmailService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/EmailServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/EmailServiceImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/Reservation_refusseServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/Reservation_refusseServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/Reservation_valideService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/Reservation_valideService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/Reservation_valideServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/agence_voyage_back/Services/Reservation_valideServiceImpl.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../agence_voyage_back\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/3.0.4/spring-data-commons-3.0.4.jar!/org/springframework/data/repository/CrudRepository.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2Nl5vqp2MCq6viNKpSKoZZLsNsp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Desktop/freelance/PFE/agence_voyage_back&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.agence_voyage_back.Entities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.example.agence_voyage_back.AgenceVoyageBackApplication">
+    <configuration name="AgenceVoyageBackApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../telechargement/jdk-17.0.6/bin" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.agence_voyage_back" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.agence_voyage_back.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.agence_voyage_back.AgenceVoyageBackApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../Java" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.agence_voyage_back.AgenceVoyageBackApplication" />
+      <module name="agence_voyage_back" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.agence_voyage_back.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in agence_voyage_back (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="agence_voyage_back" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in agence_voyage_back (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="agence_voyage_back" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in agence_voyage_back (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="agence_voyage_back" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in agence_voyage_back" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="agence_voyage_back" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="17 (2)" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in agence_voyage_back" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="agence_voyage_back" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AgenceVoyageBackApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="agence_voyage_back" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.agence_voyage_back.AgenceVoyageBackApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AgenceVoyageBackApplication" />
+      <item itemvalue="Application.com.example.agence_voyage_back.AgenceVoyageBackApplication" />
+      <item itemvalue="JUnit.All in agence_voyage_back (3)" />
+      <item itemvalue="JUnit.All in agence_voyage_back (1)" />
+      <item itemvalue="JUnit.All in agence_voyage_back (2)" />
+      <item itemvalue="JUnit.All in agence_voyage_back" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.example.agence_voyage_back.AgenceVoyageBackApplication" />
+        <item itemvalue="JUnit.All in agence_voyage_back" />
+        <item itemvalue="JUnit.All in agence_voyage_back" />
+        <item itemvalue="JUnit.All in agence_voyage_back (2)" />
+        <item itemvalue="JUnit.All in agence_voyage_back (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1464c80-d57f-42f9-a66c-89009e395264" name="Changes" comment="" />
+      <created>1680226062655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680226062655</updated>
+      <workItem from="1699021839290" duration="2229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-websocket" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-messaging" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/agence_voyage_back/Services/AdminServiceImp.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/agence_voyage_back$com_example_agence_voyage_back_AgenceVoyageBackApplication.ic" NAME="com.example.agence_voyage_back.AgenceVoyageBackApplication Coverage Results" MODIFIED="1680595226042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.agence_voyage_back.*</FILTER>
+    </SUITE>
+  </component>
+</project>

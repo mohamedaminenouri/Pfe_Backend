@@ -1,0 +1,13 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÐäŒ¹ûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ò—Þëýÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(‡Ð
+T
+java:S18741"9Remove this use of "authorizeRequests"; it is deprecated.(àœàÖùÿÿÿÿ
+Q	java:S125:"<This block of commented-out lines of code should be removed.(µãåÓ
+Š
+java:S1128"oRemove this unused import 'org.springframework.security.config.annotation.web.configuration.EnableWebSecurity'.(ŸÜÑýÿÿÿÿ
+Ž
+java:S1128"sRemove this unused import 'org.springframework.security.config.annotation.web.configuration.WebSecurityCustomizer'.(†×¥ªüÿÿÿÿ
+s
+java:S1128"]Remove this unused import 'org.springframework.security.core.userdetails.UserDetailsService'.(¶…¥à

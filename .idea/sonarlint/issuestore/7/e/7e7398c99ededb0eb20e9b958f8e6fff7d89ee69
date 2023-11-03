@@ -1,0 +1,22 @@
+
+E
+java:S5411N"(Use a primitive boolean expression here.(¸¾›Ï8Øì·¡ª1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ë‡¬8Þì·¡ª1
+r
+java:S3655}"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ø©ò¤ûÿÿÿÿ8£ñ·¡ª1
+X	java:S125)"<This block of commented-out lines of code should be removed.(þÊò¥8ùñ·¡ª1
+G	java:S1067"+Replace this use of System.out by a logger.(¿Éšª8ˆò·¡ª1
+L	java:S106C"+Replace this use of System.out by a logger.(»á¡°þÿÿÿÿ8”ò·¡ª1
+^
+java:S1126N"AReplace this if-then-else statement by a single return statement.(¸¾›Ï8œò·¡ª1
+G	java:S106"+Replace this use of System.out by a logger.(—”øü8³ò·¡ª1
+M	java:S106€"+Replace this use of System.out by a logger.(äòÐúÿÿÿÿ8´ò·¡ª1
+^	java:S125”"<This block of commented-out lines of code should be removed.(‚¨æÈûÿÿÿÿ8Èò·¡ª1
+M
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8×ò·¡ª1
+Y
+java:S1128"7Remove this unused import 'java.sql.PreparedStatement'.(òÄ™ƒÿÿÿÿÿ8×ò·¡ª1
+K
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8×ò·¡ª1
+O
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8Øò·¡ª1

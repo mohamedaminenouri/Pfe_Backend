@@ -1,0 +1,16 @@
+
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´”•78ØÉÔ¨ª1
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´”•78ÙÉÔ¨ª1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆÖ”»8ÙÉÔ¨ª1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ë‡¬8ÛÉÔ¨ª1
+p
+java:S3655#"NCall "annonce.isPresent()" or "!annonce.isEmpty()" before accessing the value.(ü÷Ûûÿÿÿÿ8¾ÊÔ¨ª1
+n
+java:S3655$"LCall "client.isPresent()" or "!client.isEmpty()" before accessing the value.(¬Á«ÿÿÿÿÿ8¾ÊÔ¨ª1
+G	java:S106"+Replace this use of System.out by a logger.(Êàë“8­ËÔ¨ª1
+L	java:S106""+Replace this use of System.out by a logger.( ³ˆûúÿÿÿÿ8¯ËÔ¨ª1
+G	java:S106&"+Replace this use of System.out by a logger.(Êàë“8²ËÔ¨ª1
+m
+java:S1128"PRemove this unused import 'com.example.agence_voyage_back.Entities.Reservation'.(Ê×Îß8»ËÔ¨ª1
+a
+java:S1128"DRemove this unused import 'org.springframework.http.HttpStatusCode'.(®å™Õ8»ËÔ¨ª1

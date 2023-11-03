@@ -1,0 +1,8 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ŒÓÆûÿÿÿÿ8ÕÅÔ¨ª1
+o	java:S116"SRename this field "date_deb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê«ôê8çÅÔ¨ª1
+o	java:S116"SRename this field "date_fin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¹Æ†8çÅÔ¨ª1
+w	java:S116"VRename this field "nb_personne" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Û¶şÿÿÿÿ8èÅÔ¨ª1
+v	java:S116"URename this field "nb_chambre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú£ÙŒüÿÿÿÿ8èÅÔ¨ª1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÊÄ§8ìÅÔ¨ª1
+W	java:S125"<This block of commented-out lines of code should be removed.(Ÿôz8ÆÆÔ¨ª1
